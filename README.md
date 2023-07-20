@@ -1,16 +1,25 @@
-# anoofilium-theme README
+# Anoofilium Theme Readme
 
-## Working with Markdown
+## Overview
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a set of beautiful and customizable themes, allowing you to personalize your user experience.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+To install the Anoofilium Theme Extension, follow these simple steps:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Launch Visual Studio Code.
+1. Open the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+1. Search for "VSCode Theme Extension" in the Extensions view search box.
+1. Click on the "Install" button next to the "VSCode Theme Extension" entry.
 
-**Enjoy!**
+Alternatively, you can install the extension from the Visual Studio Code Marketplace.
+
+## Feedback and Support
+
+We value your feedback and strive to improve the Anoofilium Theme Extension continuously. If you encounter any issues, or need assistance, please don't hesitate to reach out.
+
+- **[Email](mailTo:anuabdulkadar@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/anoof-abdul-kadar-883433147/)**
+
+**_Enjoy_**
