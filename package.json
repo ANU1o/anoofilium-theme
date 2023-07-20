@@ -4,10 +4,11 @@
   "publisher": "Anoofilium",
   "icon": "images/anufm.png",
   "repository": {
-    "type":"git",
-    "url":"https://github.com/ANU1o/anoofilium-theme"},
+    "type": "git",
+    "url": "https://github.com/ANU1o/anoofilium-theme"
+  },
   "description": "Official Anoofilium Theme",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.80.0"
   },
