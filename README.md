@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a set of beautiful and customizable themes, allowing you to personalize your user experience.
+Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a beautiful theme, allowing you to personalize your user experience.
 
 ## Installation
 
