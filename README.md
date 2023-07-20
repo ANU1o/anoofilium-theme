@@ -4,6 +4,8 @@
 
 Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a beautiful theme, allowing you to personalize your user experience.
 
+![sample img](images/sample.png)
+
 ## Installation
 
 To install the Anoofilium Theme Extension, follow these simple steps:
