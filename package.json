@@ -1,0 +1,21 @@
+{
+  "name": "anoofilium-theme",
+  "displayName": "ANOOFILIUM THEME",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ANOOFILIUM THEME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ANOOFILIUM THEME-color-theme.json"
+      }
+    ]
+  }
+}
