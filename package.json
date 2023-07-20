@@ -2,11 +2,12 @@
   "name": "anoofilium-theme",
   "displayName": "ANOOFILIUM THEME",
   "publisher": "Anoofilium",
+  "icon": "images/anufm.png",
   "repository": {
     "type":"git",
     "url":"https://github.com/ANU1o/anoofilium-theme"},
-  "description": "",
-  "version": "0.0.1",
+  "description": "Official Anoofilium Theme",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.80.0"
   },
