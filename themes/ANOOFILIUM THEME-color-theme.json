@@ -1,7 +1,7 @@
 {
 	"name": "ANOOFILIUM THEME",
 	"colors": {
-		"sideBar.background": "#0a0f0f",
+	  "sideBar.background": "#0a0f0f",
       "sideBarSectionHeader.background": "#131D1D",
       "sideBarTitle.foreground": "#CCA56A",
       "sideBarSectionHeader.foreground": "#CCA56A",
