@@ -2,6 +2,7 @@
 	"name": "ANOOFILIUM THEME",
 	"colors": {
 	  "sideBar.background": "#0a0f0f",
+	  "sideBar.border": "#010101",
       "sideBarSectionHeader.background": "#131D1D",
       "sideBarTitle.foreground": "#CCA56A",
       "sideBarSectionHeader.foreground": "#CCA56A",
@@ -27,6 +28,11 @@
       "menubar.selectionBackground": "#0a0f0f",
       "terminal.background": "#0a0f0f",
       "terminal.foreground": "#CCA56A",
+	  "button.background": "#3B9CAC",
+	  "button.foreground": "#EAF2F4",
+	  "button.hoverBackground": "#CCA56A",
+	  "textLink.foreground": "#3B9CAC",
+	  "textLink.activeForeground": "#CCA56A"
 	},
 	"tokenColors": [
 		{
