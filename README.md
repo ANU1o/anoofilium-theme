@@ -1,6 +1,8 @@
-## Overview
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" rel="stylesheet">
 
-### Howdy,
+<p style="font-size:25px">Howdy,</p>
 
 Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a beautiful theme, allowing you to personalize your user experience.
 
@@ -25,3 +27,7 @@ We value your feedback and strive to improve the Anoofilium Theme Extension cont
 - **[LinkedIn](https://www.linkedin.com/in/anoof-abdul-kadar-883433147/)**
 
 ### **_Enjoy_**
+
+Made with Love,
+
+<a href="https://github.com/ANU1o" style="font-family: 'Saira Stencil One', cursive; font-size:30px; text-decoration:none;color:#3B9CAC">ANOOFILIUM</a>
