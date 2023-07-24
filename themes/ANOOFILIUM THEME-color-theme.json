@@ -142,7 +142,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#EAF2F4"
 			}
 		},
 		{
@@ -152,21 +152,21 @@
 				"string meta.image.inline.markdown"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#EAF2F4"
 			}
 		},
 		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#88846f"
+				"foreground": "#2C6761"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
@@ -185,28 +185,28 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#EAF2F4"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
@@ -214,14 +214,14 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F8F8F2"
+				"foreground": "#EAF2F4"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
@@ -229,7 +229,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
@@ -352,7 +352,7 @@
 			"name": "diff.deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
@@ -366,33 +366,33 @@
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
 			"scope": "constant.numeric.line-number.find-in-files - match",
 			"settings": {
-				"foreground": "#AE81FFA0"
+				"foreground": "#3B9CACA0"
 			}
 		},
 		{
 			"scope": "entity.name.filename.find-in-files",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#CCA56A"
 			}
 		},
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
@@ -451,14 +451,14 @@
 			"name": "Markdown Link Title/Description",
 			"scope": "string.other.link.title.markdown,string.other.link.description.markdown",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
 			"name": "Markdown Underline Link/Image",
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#3B9CAC"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			"name": "Markdown Punctuation Definition Link",
 			"scope": "markup.list.unnumbered.markdown, markup.list.numbered.markdown",
 			"settings": {
-				"foreground": "#f8f8f2"
+				"foreground": "#EAF2F4"
 			}
 		},
 		{
