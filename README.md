@@ -6,7 +6,9 @@
 
 Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a beautiful theme, allowing you to personalize your user experience.
 
-![sample img](images/sample.png)
+<img src="images/anoofilium-theme.svg" alt="sample">
+
+**_Figure Source:_** [VSCode Themes](https://vscodethemes.com/e/anoofilium.anoofilium-theme/anoofilium-theme?language=java)
 
 ## Installation
 
