@@ -28,6 +28,5 @@ We value your feedback and strive to improve the Anoofilium Theme Extension cont
 
 ### **_Enjoy_**
 
-Made with Love,
-
-<a href="https://github.com/ANU1o" style="font-family: 'Saira Stencil One', cursive; font-size:30px; text-decoration:none;color:#3B9CAC">ANOOFILIUM</a>
+Made with Love,<br>
+[ANOOFILIUM](https://github.com/ANU1o)

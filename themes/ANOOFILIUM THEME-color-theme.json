@@ -137,7 +137,7 @@
       "editorHoverWidget.background": "#131D1D",
       "editorHoverWidget.border": "#0a0f0f",
       "editorHoverWidget.foreground": "#EAF2F4",
-      "editorHoverWidget.highlightForeground": "#1c2b2b",
+      "editorHoverWidget.highlightForeground": "#CCA56A",
 	},
 	"tokenColors": [
 		{
