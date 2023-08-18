@@ -1,7 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" rel="stylesheet">
-
 <p style="font-size:25px">Howdy,</p>
 
 Welcome to the **Anoofilium Theme Extension**! This extension enhances your codespace with a beautiful theme, allowing you to personalize your user experience.
