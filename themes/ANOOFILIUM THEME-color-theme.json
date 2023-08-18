@@ -1,6 +1,7 @@
 {
 	"name": "ANOOFILIUM THEME",
 	"colors": {
+
 	  "sideBar.background": "#0a0f0f",
       "sideBar.border": "#010101",
       "sideBarSectionHeader.background": "#131D1D",
@@ -107,6 +108,8 @@
       "dropdown.foreground": "#EAF2F4",
       "badge.background": "#CCA56A",
       "badge.foreground": "#0a0f0f",
+	  "activityBarBadge.background": "#3B9CAC",
+	  "activityBarBadge.foreground": "#0a0f0f",
       "progressBar.background": "#3B9CAC",
       "editorGroup.border": "#131D1D",
       "editorGroup.dropBackground": "#2C676150",
